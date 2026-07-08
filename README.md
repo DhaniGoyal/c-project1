@@ -1,5 +1,5 @@
 # c-project1
-this is my first github repository
+This is my first github Repository.
 <b>
-<t>
+<br>
 Author-DHANI GOYAL
